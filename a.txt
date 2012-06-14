@@ -1,5 +1,1 @@
 This is a sample text file.
-Yippe-kay-yay, mothertrucker!
-A conflicting change, ho-ho!
-
-Blah, blah, blah
